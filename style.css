@@ -1,0 +1,16 @@
+label {
+    color:rgb(61, 34, 0)
+}
+
+h1 {
+    color:brown
+}
+
+body {
+    background-color: rgb(255, 229, 162);
+}
+
+.botao{
+    background-color: black;
+    color: antiquewhite;
+}
